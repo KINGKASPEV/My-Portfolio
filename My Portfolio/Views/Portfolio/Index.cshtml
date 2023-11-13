@@ -1,0 +1,15 @@
+﻿@model List<My_Portfolio.Models.PortfolioItem>
+
+<h1>Portfolio</h1>
+
+@foreach (var item in Model)
+{
+    <div>
+        <h2>@item.Title</h2>
+        <p>@item.Description</p>
+        <p>Project URL: <a href="@item.ProjectUrl">@item.ProjectUrl</a></p>
+        <p>GitHub Repository: <a href="@item.GitHubRepository">@item.GitHubRepository</a></p>
+        <p>Technologies Used: @string.Join(", ", item.TechnologiesUsed)</p>
+        <p>Date Completed: @item.DateCompleted.ToShortDateString()</p>
+    </div>
+}

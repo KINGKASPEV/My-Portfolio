@@ -1,0 +1,30 @@
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\bin\Debug\net7.0\appsettings.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\bin\Debug\net7.0\My Portfolio.staticwebassets.runtime.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\bin\Debug\net7.0\My Portfolio.exe
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\bin\Debug\net7.0\My Portfolio.deps.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\bin\Debug\net7.0\My Portfolio.runtimeconfig.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\bin\Debug\net7.0\My Portfolio.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\bin\Debug\net7.0\My Portfolio.pdb
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.AssemblyInfo.cs
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.RazorAssemblyInfo.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.RazorAssemblyInfo.cs
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\staticwebassets\msbuild.My Portfolio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\staticwebassets\msbuild.build.My Portfolio.props
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.My Portfolio.props
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.My Portfolio.props
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\scopedcss\bundle\My Portfolio.styles.css
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\scopedcss\projectbundle\My Portfolio.bundle.scp.css
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\refint\My Portfolio.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.pdb
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\My Portfolio.genruntimeconfig.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My Portfolio\obj\Debug\net7.0\ref\My Portfolio.dll
