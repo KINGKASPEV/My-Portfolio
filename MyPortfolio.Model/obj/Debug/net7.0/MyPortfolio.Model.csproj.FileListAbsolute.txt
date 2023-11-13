@@ -1,0 +1,14 @@
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\bin\Debug\net7.0\MyPortfolio.Model.deps.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\bin\Debug\net7.0\MyPortfolio.Model.runtimeconfig.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\bin\Debug\net7.0\MyPortfolio.Model.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\bin\Debug\net7.0\MyPortfolio.Model.pdb
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\MyPortfolio.Model.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\MyPortfolio.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\MyPortfolio.Model.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\MyPortfolio.Model.AssemblyInfo.cs
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\MyPortfolio.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\MyPortfolio.Model.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\refint\MyPortfolio.Model.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\MyPortfolio.Model.pdb
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\MyPortfolio.Model.genruntimeconfig.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Model\obj\Debug\net7.0\ref\MyPortfolio.Model.dll

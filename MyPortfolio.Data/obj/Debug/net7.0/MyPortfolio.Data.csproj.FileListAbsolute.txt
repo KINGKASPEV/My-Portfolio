@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\bin\Debug\net7.0\MyPortfolio.Data.deps.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\bin\Debug\net7.0\MyPortfolio.Data.runtimeconfig.json
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\bin\Debug\net7.0\MyPortfolio.Data.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\bin\Debug\net7.0\MyPortfolio.Data.pdb
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\bin\Debug\net7.0\MyPortfolio.Model.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\bin\Debug\net7.0\MyPortfolio.Model.pdb
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\MyPortfolio.Data.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\MyPortfolio.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\MyPortfolio.Data.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\MyPortfolio.Data.AssemblyInfo.cs
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\MyPortfolio.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\MyPortfolio.Data.csproj.CopyComplete
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\MyPortfolio.Data.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\refint\MyPortfolio.Data.dll
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\MyPortfolio.Data.pdb
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\MyPortfolio.Data.genruntimeconfig.cache
+C:\Users\user\Desktop\My-project\New-Project\My Portfolio\My-Portfolio\MyPortfolio.Data\obj\Debug\net7.0\ref\MyPortfolio.Data.dll
